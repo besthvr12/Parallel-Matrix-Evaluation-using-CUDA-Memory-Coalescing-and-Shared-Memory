@@ -3,7 +3,7 @@
 
 Welcome to the Efficient Matrix Computation project! This endeavor delves into the world of matrix manipulation, where we tackle the task of efficiently calculating the matrix E through the equation:
 
-E = AB + CDT (1)
+E = AB + CD^T (1)
 
 ## Problem Statement
 
@@ -19,7 +19,7 @@ Consider four integer matrices: Ap×q, Bq×r, Cp×q, and Dr×q. Our challenge li
 
 1. Initialize matrices Ap×q, Bq×r, Cp×q, and Dr×q with relevant integer values.
 
-2. Employ memory optimization strategies to calculate the matrix E according to the equation E = AB + CDT.
+2. Employ memory optimization strategies to calculate the matrix E according to the equation E = AB + CD^T.
 
 3. Observe the magic of efficient memory coalescing and shared memory utilization in action.
 
