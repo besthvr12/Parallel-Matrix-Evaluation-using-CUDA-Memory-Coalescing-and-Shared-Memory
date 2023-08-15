@@ -29,7 +29,7 @@ Uncover the transformative power of memory optimization as we witness enhanced m
 
 ---
 
-Join us in this exploration of memory optimization as we unravel the complexities of matrix computation and embrace the elegance of efficient solutions!
+
 
 
 
