@@ -3,7 +3,7 @@
 
 Welcome to the Efficient Matrix Computation project! This endeavor delves into the world of matrix manipulation, where we tackle the task of efficiently calculating the matrix E through the equation:
 
-![Equation](https://latex.codecogs.com/svg.latex?E%20%3D%20AB%20%2B%20CD%5ET%20%281%29)
+E = AB + CDT (1)
 
 ## Problem Statement
 
@@ -28,4 +28,6 @@ Consider four integer matrices: Ap×q, Bq×r, Cp×q, and Dr×q. Our challenge li
 Uncover the transformative power of memory optimization as we witness enhanced matrix computation speed and resource utilization. This project sheds light on the crucial intersection of algorithmic prowess and hardware optimization.
 
 ---
+
+
 
